@@ -1,0 +1,28 @@
+---
+label: Player-Test
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: age
+  label: age
+- type: text
+  name: emergency_contact
+  label: emergency_contact
+- type: list
+  name: sports
+  label: sports
+- type: text
+  name: team
+  label: team
+- type: list
+  name: practices
+  label: practices
+- type: text
+  name: year
+  label: year
