@@ -1,7 +1,6 @@
 +++
 age = 12
 date = 2020-12-24T05:00:00Z
-draft = true
 emergency_contact = "772-552-5555"
 practices = ["Tuesday"]
 sports = ["soccer"]
